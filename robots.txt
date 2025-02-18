@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://kumar-daily.github.io/news/sitemap.xml
